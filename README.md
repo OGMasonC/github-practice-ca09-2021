@@ -104,4 +104,6 @@
 | 73  | :Tristan Chapman           | :TristanChapman98 | :                                  | :<https://github.com/TristanChapman98/Individual_Project>                         | :------------------------------------                                   | :27/09/2021     |
 | 74  | Aditya Khurana             | 10                |  Aditya-LBS                        |                                                                                   |                                                                         |                 |
 | 75  | Katrin Haas                |  A14              |  katrin-hs                         |                                                                                   |                                                                         | 27/09/2021      |
-| 76  |  Lindsey Zastawny          |  12               | lindseyzast                        |                                    
+| 76  |  Lindsey Zastawny          |  12               | lindseyzast                        |                                
+| 77  | Mason Chen                 | B8                |  OGMasonC                          |   <https://github.com/OGMasonC/individual_project.git>
+"added Mason Chen to class table"

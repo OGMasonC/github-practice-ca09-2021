@@ -141,3 +141,4 @@
 | 111 | Mihkel Kaarma            | B8              |     mihkelkaarma             | 2021-10-20    |  https://github.com/mihkelkaarma/individual_project
 | 112 | Sylvia Hu           | B10              |     Sylvia199808            | 2021-10-20    |  https://github.com/Sylvia199808/my_website
 | 113 | Aditi Lapasia| A8 |  aditilapasia | https://github.com/aditilapasia/website | https://aditilapasia-portfolio.netlify.app/ | 21/10/2021      |
+| 114   | Mason Chen               | B8                |  OGMasonC                       | <|https://github.com/OGMasonC/My_Website.git> |   <https://ogmc.netlify.app/>                | 21/10/2021      |
